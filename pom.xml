@@ -2,17 +2,17 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.mt</groupId>
+	<groupId>com.uc</groupId>
 	<artifactId>maven-standalone-application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>maven-standalone-application</name>
-	<url>http://mithuntechnologies.com</url>
+	<url>http://uptimecareer.xyz</url>
 
 	<organization>
-		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<name>Uptime Career</name>
+		<url>http://uptimecareer.xyz/</url>
 	</organization>
 	
 	<description>Maven Standalone Application</description>
@@ -42,15 +42,15 @@
 		mvn scm:update -->
 	<!--
 	<scm>
-		<connection>scm:git:https://github.com/MithunTechnologiesDevOps/maven-standalone-application</connection>
-		<developerConnection>scm:git:https://github.com/MithunTechnologiesDevOps/maven-standalone-application</developerConnection>
+		<connection>scm:git:https://github.com/uptimecareer/maven-standalone-application</connection>
+		<developerConnection>scm:git:https://github.com/uptimecareer/maven-standalone-application</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://github.com/MithunTechnologiesDevOps/maven-standalone-application</url>
+		<url>https://github.com/uptimecareer/maven-standalone-application</url>
 	</scm>
 
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/MithunTechnologiesDevOps/maven-standalone-application/issues</url>
+		<url>https://github.com/uptimecareer/maven-standalone-application/issues</url>
 	</issueManagement>
 
 	-->
